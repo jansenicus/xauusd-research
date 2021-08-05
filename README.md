@@ -1,4 +1,5 @@
 # xauusd-research
 XAUUSD price research
 
-# Data
+# Historical Data
+Download from Metatrader History Center
