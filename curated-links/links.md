@@ -1,5 +1,6 @@
 *Github Projects*
 - [Directional Predictor for XAU_USD pair](https://github.com/marcusfooo/Gold-Directional-Trend-Predictor)
+- [ANN-MACD-GOLD](https://github.com/user-Noldo/ANN-MACD-GOLD)
 - [Brazilian Stock Price Prediction](https://github.com/PedroHCouto/UDACITY-ML-Engineer-Nanodegree-Project/blob/main/README.md)
 - [PPG Stock Price Prediction](https://github.com/jayellho/AWS-ML-eng-capstone)
 
