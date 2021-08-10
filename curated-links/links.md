@@ -19,4 +19,10 @@
 
 *Videos*
 - [Using Tensorflow For Stock Market Predition (XAU/USD) - Deep Learning](https://www.youtube.com/watch?v=u_PyOnAjQ-A)
-- 
+
+*Group*
+- [Financial Astrology Research Group](https://github.com/financial-astrology-research)
+
+*WD Gann*
+- [GannSquareOfNine](https://github.com/ankit7070/GannSquareOfNine)
+- [Gann Square](https://github.com/Galarius/gann-square) 
