@@ -8,6 +8,12 @@
 - [Predicting the XAU-USD Foreign Exchange Prices](https://bengielynmae.github.io/portfolio/6forex)
 - [Predicting Gold Prices Using Machine Learning](https://towardsdatascience.com/machine-learning-to-predict-gold-price-returns-4bdb0506b132)
 - [How to Make A.I. That Looks into Trade Charts (And Use It for Trading)](https://towardsdatascience.com/making-a-i-that-looks-into-trade-charts-62e7d51edcba)
+- [How to Make A.I. That Predicts Financial Stock Market](https://www.linkedin.com/pulse/how-make-ai-predicts-financial-stock-market-ceyhun-derinbogaz/)
+
+*Papers*
+- [A Survey of Forex and Stock Price Prediction Using Deep Learning](https://www.mdpi.com/2571-5577/4/1/9)
+- [Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019](https://arxiv.org/pdf/1911.13288)
+- 
 
 *Videos*
 - [Using Tensorflow For Stock Market Predition (XAU/USD) - Deep Learning](https://www.youtube.com/watch?v=u_PyOnAjQ-A)
