@@ -22,7 +22,3 @@
 
 *Group*
 - [Financial Astrology Research Group](https://github.com/financial-astrology-research)
-
-*WD Gann*
-- [GannSquareOfNine](https://github.com/ankit7070/GannSquareOfNine)
-- [Gann Square](https://github.com/Galarius/gann-square) 
